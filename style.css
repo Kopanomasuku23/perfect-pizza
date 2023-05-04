@@ -1,0 +1,41 @@
+body{
+    background-color: #02A9EA ;
+
+}
+
+.small-pizza{
+    background-color:#F8C630;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+
+.medium-pizza{
+    background-color: #E54F6D;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+
+.large-pizza{
+    background-color: #B91372;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+
+.contact{
+    background-color: #F5853F;
+    margin: 1em;
+    padding: 1em;
+}
+
+
+@media (min-width:960px){
+    .pizza{
+        border-radius: 0.5em;
+        display: flex;
+        border: bold solid;
+    }
+       
+}
