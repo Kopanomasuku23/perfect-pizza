@@ -1,6 +1,6 @@
 body{
     background-color: #02A9EA ;
-
+text-align: center;
 }
 
 .small-pizza{
@@ -15,7 +15,9 @@ body{
     margin: 1em;
     padding: 1em;
     border-radius: 0.5em;
+
 }
+
 
 .large-pizza{
     background-color: #B91372;
@@ -23,6 +25,7 @@ body{
     padding: 1em;
     border-radius: 0.5em;
 }
+
 
 .contact{
     background-color: #F5853F;
@@ -38,4 +41,17 @@ body{
         border: bold solid;
     }
        
+}
+
+h1{
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+}
+
+body{
+    background-color: #02A9EA;
+    text-align: center;
 }
